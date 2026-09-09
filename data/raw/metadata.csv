@@ -1,0 +1,9 @@
+source_name,organization,topic,url,local_file,source_type
+Mental disorders,World Health Organization,mental health and psychiatric concepts,https://www.who.int/news-room/fact-sheets/detail/mental-disorders,who_mental_disorders.html,official fact sheet
+Mental health,World Health Organization,mental health and public health,https://www.who.int/health-topics/mental-health,who_mental_health.html,official health topic page
+Brain Basics,National Institute of Neurological Disorders and Stroke (NIH),neuroscience foundations,https://www.ninds.nih.gov/health-information/public-education/brain-basics,ninds_brain_basics.html,official educational page
+Anxiety Disorders,National Institute of Mental Health (NIH),anxiety and psychiatric concepts,https://www.nimh.nih.gov/health/topics/anxiety-disorders,nimh_anxiety_disorders.html,official health topic page
+Depression,National Institute of Mental Health (NIH),depression and psychiatric concepts,https://www.nimh.nih.gov/health/publications/depression,nimh_depression.html,official publication
+Psychotherapies,National Institute of Mental Health (NIH),psychotherapy and mental health treatment,https://www.nimh.nih.gov/health/topics/psychotherapies,nimh_psychotherapies.html,official health topic page
+Caring for Your Mental Health,National Institute of Mental Health (NIH),mental health psychoeducation and help-seeking,https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health,nimh_caring_for_your_mental_health.html,official health topic page
+Psychotherapies for depression: a network meta-analysis,PubMed Central / Wiley,psychotherapy evidence for depression,https://pmc.ncbi.nlm.nih.gov/articles/PMC8129869/,pmc_psychotherapies_depression_network_meta_analysis.html,peer-reviewed systematic review and network meta-analysis
